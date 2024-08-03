@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragtk117&layout=compact&theme=vision-friendly-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragtk117&layout=compact&theme=vision-friendly-dark) <img align="right" height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragtk117&theme=dark"  />
 
 ---
 
