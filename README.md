@@ -47,7 +47,7 @@
 <a href="mailto:anuragtk117@gmail.com" target="blank"><img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" alt="gmail" height="60" width="60" /></a> 
 <a href="https://github.com/Anuragtk117/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Anuragtk117&color=brightgreen" alt="watching_count" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Anuragtk117&color=brightgreen" alt="watching_count" height="30" /></p>
 
   
 </p>
