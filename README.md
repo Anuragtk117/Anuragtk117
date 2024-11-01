@@ -1,5 +1,12 @@
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragtk117&layout=compact&theme=vision-friendly-dark)  <img align="right" height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragtk117&theme=dark"  />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragtk117&layout=compact&theme=vision-friendly-dark)
+<img align="right" height="165em" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragtk117&theme=dark"  />
+
+
+
+<img align="center" height="165em" src="https://github-profile-trophy.vercel.app/?username=Anuragtk117&theme=radical&no-frame=false&no-bg=false&margin-w=4"  />
+
+
 
 ---
 
@@ -51,5 +58,6 @@
 
   
 </p>
+
 
 
