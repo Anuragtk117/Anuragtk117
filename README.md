@@ -44,6 +44,10 @@
 
 ---
 
+  <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuragtk117&radius=8&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true" height="288" alt="activity-graph graph" /></p>
+
+---
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
