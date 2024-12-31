@@ -29,7 +29,8 @@
 <img src="https://img.shields.io/badge/-Hive-blue?style=flat&logo=hive&logoColor=FFFFFF" height="25">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" height="25">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" height="25">
-<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white" height="25">
+<img src="http://img.shields.io/badge/-Figma-F1502F?style=flat&logo=figma&logoColor=FFFFFF" height="25">
+
 
 ---
 
