@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/-Postgresql-white?style=flat&logo=postgresql&logoColor=blue" height="25"> 
 <img src="https://img.shields.io/badge/-Sequelize-blue?style=flat&logo=sequelize&logoColor=FFFFFF" height="25">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" height="25">
+<img src="https://img.shields.io/badge/-Redis-F1502F?style=flat&logo=redis&logoColor=FFFFFF" height="25">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF" height="25">
 <img src="https://img.shields.io/badge/-Hive-blue?style=flat&logo=hive&logoColor=FFFFFF" height="25">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" height="25">
