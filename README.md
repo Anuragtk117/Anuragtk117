@@ -20,17 +20,19 @@
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="25">
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/-Express.js-black?style=flat&logo=express&logoColor=white" height="25">
 
-<img src="https://img.shields.io/badge/-Arduino-4DB33D?style=flat&logo=Arduino&logoColor=white" height="25"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" height="25"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=white" height="25"> 
 <img src="https://img.shields.io/badge/-Postgresql-white?style=flat&logo=postgresql&logoColor=blue" height="25"> 
-<img src="https://img.shields.io/badge/-Sequelize-blue?style=flat&logo=sequelize&logoColor=FFFFFF" height="25">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" height="25">
-<img src="https://img.shields.io/badge/-Redis-F1502F?style=flat&logo=redis&logoColor=FFFFFF" height="25">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF" height="25">
 <img src="https://img.shields.io/badge/-Hive-blue?style=flat&logo=hive&logoColor=FFFFFF" height="25">
+
+<img src="http://img.shields.io/badge/-Mongoose-green?style=flat&logo=mongoose&logoColor=FFFFFF" height="25"> <img src="https://img.shields.io/badge/-Sequelize-blue?style=flat&logo=sequelize&logoColor=FFFFFF" height="25">
+<img src="https://img.shields.io/badge/-Arduino-4DB33D?style=flat&logo=Arduino&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-Express.js-black?style=flat&logo=express&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-Redis-F1502F?style=flat&logo=redis&logoColor=FFFFFF" height="25">
+<img src="https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white" height="25"> 
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" height="25">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" height="25">
+<img src="https://img.shields.io/badge/-Webpack-white?style=flat&logo=webpack&logoColor=blue" height="25">
 <img src="http://img.shields.io/badge/-Figma-F1502F?style=flat&logo=figma&logoColor=FFFFFF" height="25">
 
 
