@@ -13,18 +13,21 @@
 
   ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" align="center">   Tech & Tools Preference
 
-<img src="http://img.shields.io/badge/-Flutter-4285F4?style=flat&logo=flutter&logoColor=white" height="25"> <img src="http://img.shields.io/badge/-Django-green?style=flat&logo=django&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js&logoColor=green" height="25">
-<img src="https://img.shields.io/badge/-Android-white?style=flat&logo=android&logoColor=darkgreen" height="25">
+<img src="http://img.shields.io/badge/-Flutter-4285F4?style=flat&logo=flutter&logoColor=white" height="25"> <img src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js&logoColor=green" height="25">
+<img src="http://img.shields.io/badge/-Django-green?style=flat&logo=django&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-Flask-white?style=flat&logo=Flask&logoColor=blue" height="25">
 <img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff" height="25">
+<img src="https://img.shields.io/badge/-Android-white?style=flat&logo=android&logoColor=darkgreen" height="25">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="25">
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-TailWind CSS-white?style=flat&logo=tailwindcss&logoColor=blue" height="25">
 
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" height="25"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=white" height="25"> 
 <img src="https://img.shields.io/badge/-Postgresql-white?style=flat&logo=postgresql&logoColor=blue" height="25"> 
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF" height="25">
 <img src="https://img.shields.io/badge/-Hive-blue?style=flat&logo=hive&logoColor=FFFFFF" height="25">
+<img src="https://img.shields.io/badge/-SQLite-light green?style=flat&logo=SQLite&logoColor=FFFFFF" height="25">
 
 <img src="http://img.shields.io/badge/-Mongoose-green?style=flat&logo=mongoose&logoColor=FFFFFF" height="25"> <img src="https://img.shields.io/badge/-Sequelize-blue?style=flat&logo=sequelize&logoColor=FFFFFF" height="25">
 <img src="https://img.shields.io/badge/-Arduino-4DB33D?style=flat&logo=Arduino&logoColor=white" height="25">
@@ -34,6 +37,18 @@
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" height="25">
 <img src="https://img.shields.io/badge/-Webpack-white?style=flat&logo=webpack&logoColor=blue" height="25">
 <img src="http://img.shields.io/badge/-Figma-F1502F?style=flat&logo=figma&logoColor=FFFFFF" height="25">
+<img src="http://img.shields.io/badge/-Nginx-light green?style=flat&logo=nginx&logoColor=FFFFFF" height="25">
+
+<img src="http://img.shields.io/badge/-Socket.IO-white?style=flat&logo=socket.io&logoColor=black" height="25"> <img src="https://img.shields.io/badge/-WebSocket-red?style=flat&logo=socket&logoColor=FFFFFF" height="25">
+<img src="http://img.shields.io/badge/-Vite-%23646CFF?style=flat&logo=vite&logoColor=white" height="25">
+<img src="http://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white" height="25">
+<img src="http://img.shields.io/badge/-Nodemon-green?style=flat&logo=nodemon&logoColor=grey" height="25">
+<img src="http://img.shields.io/badge/-NPM-red?style=flat&logo=npm&logoColor=white" height="25">
+<img src="http://img.shields.io/badge/-JWT-black?style=flat&logo=JSON%20web%20tokens&logoColor=white" height="25">
+<img src = "https://img.shields.io/badge/-Snyk-1572B6?style=flat&logo=snyk&logoColor=white" height="25">
+<img src = "https://img.shields.io/badge/-PM2-white?style=flat&logo=pm2&logoColor=black" height="25">
+
+
 
 
 ---
